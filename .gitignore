@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+venv/
+env/
+.env
+.venv/
+
+# Data files (regeneratable from Keras cache)
+*.npy
+data/
+
+# Models
+models/*.h5
+models/*.keras
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
